@@ -9,6 +9,3 @@
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=toxinsfx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toxinsfx&label=Profile%20views&color=0e75b6&style=flat" alt="toxinsfx" /> </p>
