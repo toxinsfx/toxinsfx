@@ -5,7 +5,7 @@
 
 <h4 align="center">I use: </h5>
 <p align="center">
-          https://skillicons.dev/icons?i=py,cs,cpp,html,css,java,go
+          <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,java,go"/>
 </p>
 
 <br>
