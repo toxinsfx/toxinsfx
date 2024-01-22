@@ -1,11 +1,17 @@
+![Header](./header.png)
+
+<h1 align="center">Toxinsfx</h1>
+<a href="https://github.com/toxinsfx"></a>
+
+<h4 align="center">I use: </h5>
 <p align="center">
-  <img src="banner.gif" width="680" height="240"/>
+          https://skillicons.dev/icons?i=py,cs,cpp,html,css,java,go
 </p>
 
-# 📊 Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=toxinsfx&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=toxinsfx&theme=radical&hide_border=false)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=toxinsfx&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=toxinsfx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=toxinsfx&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
+
+![Footer](./footer.png)
